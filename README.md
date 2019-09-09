@@ -1,6 +1,9 @@
+## Installation
 Run:
 
-# rails db:create db:migrate
-# rails dev:setup
-# rails g serializer serie
-# rails g serializer genre
+```bash
+rails db:create db:migrate
+rails dev:setup
+rails g serializer serie
+rails g serializer genre
+```
